@@ -1,0 +1,15 @@
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\bin\Debug\net6.0\Ежедневник.exe
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\bin\Debug\net6.0\Ежедневник.deps.json
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\bin\Debug\net6.0\Ежедневник.runtimeconfig.json
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\bin\Debug\net6.0\Ежедневник.dll
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\bin\Debug\net6.0\Ежедневник.pdb
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.csproj.AssemblyReference.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.AssemblyInfoInputs.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.AssemblyInfo.cs
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.csproj.CoreCompileInputs.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.dll
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\refint\Ежедневник.dll
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.pdb
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\Ежедневник.genruntimeconfig.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\ежедневник\Ежедневник\obj\Debug\net6.0\ref\Ежедневник.dll
